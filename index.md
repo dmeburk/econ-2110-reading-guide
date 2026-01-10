@@ -3,17 +3,17 @@ layout: default
 title: ECON 2110 Reading Guide
 ---
 
-\$$ 1 - x^1 \$$
+Display: \$$ 1 - x^1 \$$
 
 $$
 1 - \frac{6}{7}
 $$
 
-\[ 2 - y^2 \]
+Display: \[ 2 - y^2 \]
 
-$ 1 - x^1 $
+Inline: $ 1 - x^1 $
 
-\( 2 - y^2 \)
+Inline: \( 2 - y^2 \)
 
 # ECON 2110 — HTZ Reading Guide
 
