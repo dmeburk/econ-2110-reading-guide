@@ -3,6 +3,12 @@ layout: default
 title: ECON 2110 Reading Guide
 ---
 
+$$ 1 - x^1 $$
+\[ 2 - y^2 \]
+
+$ 1 - x^1 $
+\( 2 - y^2 \)
+
 # ECON 2110 — HTZ Reading Guide
 
 *A reading guide to the HTZ text for ECON 2110. Updated as needed.*
@@ -23,7 +29,7 @@ ___
 
 - **Example 1.1-1 (six-sided die)**  
   Read this example until you feel comfortable with it.
-  - What is event \( A \)?
+  - What is event $A$?
   - What does it mean when a claim is “supported by simulation (although not proved by it)”?
 
 - **Definition 1.1-1 (Probability)**  
