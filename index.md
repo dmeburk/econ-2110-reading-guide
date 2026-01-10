@@ -5,6 +5,8 @@ title: ECON 2110 Reading Guide
 
 Display: $$ 1 - a $$
 
+Try this out:
+
 $$
 1 - \frac{6}{7} b
 $$
