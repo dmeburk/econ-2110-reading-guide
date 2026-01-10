@@ -11,11 +11,11 @@ $$
 1 - \frac{6}{7} b
 $$
 
-Display: \[ 2 - c^2 \]
+Display: \\[ 2 - c^2 \\]
 
 Inline: $ 1 - d^1 $
 
-Inline: \( 2 - e^2 \)
+Inline: \\( 2 - e^2 \\)
 
 # ECON 2110 — HTZ Reading Guide
 
