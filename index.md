@@ -4,9 +4,11 @@ title: ECON 2110 Reading Guide
 ---
 
 $$ 1 - x^1 $$
+
 \[ 2 - y^2 \]
 
 $ 1 - x^1 $
+
 \( 2 - y^2 \)
 
 # ECON 2110 — HTZ Reading Guide
