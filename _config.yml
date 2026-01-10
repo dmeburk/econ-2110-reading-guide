@@ -1,5 +1,6 @@
-theme: minima
+title: ECON 2110 Reading Guide
 markdown: kramdown
 
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
+  syntax_highlighter: rouge
