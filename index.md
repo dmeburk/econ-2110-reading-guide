@@ -10,7 +10,7 @@ _Last updated: 2026-01-09_
 
 ---
 
-## Section 1.1
+## Section 1.1 - Probability
 
 - Introduction to probability.
 - Some basic set notation.  
@@ -39,7 +39,7 @@ _Last updated: 2026-01-09_
 
 ---
 
-## Section 1.2
+## Section 1.2 - "Let [us] count the ways"
 
 - **Multiplication principle**  
   This is very important. Nearly all counting techniques in the course flow directly from this idea.
