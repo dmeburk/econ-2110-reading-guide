@@ -9,6 +9,7 @@ Use this guide alongside the course calendar to see which sections are relevant 
 _Last updated: 2026-01-09_
 
 ---
+$dave$
 
 ## Section 1.1 - Probability
 
