@@ -7,10 +7,9 @@ Yo. This is the reading guide for ECON 2110.
 
 Inline math: \\( u(c) = \log c \; (y^2 + 41) \\)
 
+$ 56 - f(x) $
 
-$
-42 - y^7
-$
+\(78 - \frac{1}{2} \)
 
 
 $$
