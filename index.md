@@ -3,7 +3,7 @@ layout: default
 title: ECON 2110 Reading Guide
 ---
 
-$$ 1 - x^1 $$
+\$$ 1 - x^1 \$$
 
 \[ 2 - y^2 \]
 
