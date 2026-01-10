@@ -6,7 +6,7 @@ title: ECON 2110 Reading Guide
 \$$ 1 - x^1 \$$
 
 $$
-1 - \frac{6}{7}f
+1 - \frac{6}{7}
 $$
 
 \[ 2 - y^2 \]
