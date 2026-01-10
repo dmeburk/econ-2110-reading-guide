@@ -28,11 +28,13 @@ ___
 
 - **Definition 1.1-1 (Probability)**  
   - Is this really how probability is defined?
-  - Recall our long-run frequency definition, where  
+  - Recall our long-run frequency definition, where
+  
     $$
     \frac{\mathcal{N}(A)}{n} \to P(A) \quad \text{as } n \to \infty.
     $$
-    How do these definitions relate?
+
+  -  How do these definitions relate?
 
 - **Theorem 1.1-1**  
   - Basic but crucial.
