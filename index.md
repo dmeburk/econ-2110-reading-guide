@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ECON 2110 — HTZ Reading Guide
 
 *A reading guide to the HTZ text for ECON 2110. Updated as needed.*
@@ -9,8 +13,6 @@ Use this guide alongside the course calendar to see which sections are relevant 
 _Last updated: 2026-01-09_
 
 ---
-$dave$
-
 ## Section 1.1 - Probability
 
 - Introduction to probability.
