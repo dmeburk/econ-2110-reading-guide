@@ -1,35 +1,16 @@
----
-layout: default
-title: ECON 2110 Reading Guide
----
-
-Display: $$ 1 - a $$
-
-Try this out:
-
-$$
-1 - \frac{6}{7} b
-$$
-
-Display: \\[ 2 - c^2 \\]
-
-Inline: $ 1 - d^1 $
-
-Inline: \\( 2 - e^2 \\)
-
 # ECON 2110 — HTZ Reading Guide
 
-*A reading guide to the HTZ text for ECON 2110. Updated as needed.*
+*A reading guide to the HTZ text for ECON 2110.*
 
 These notes are meant to help you read the text productively. They are not a substitute for reading.
 
 Use this guide alongside the course calendar to determine which sections are relevant for a given week.
 
-*Last updated: 2026-01-09*
+**Last updated:** 2026-01-14
 
-___
+---
 
-## **Section 1.1 — Probability**
+## Section 1.1 — Probability
 
 - Introduction to probability.
 - Some basic set notation.  
@@ -43,12 +24,10 @@ ___
 - **Definition 1.1-1 (Probability)**  
   - Is this really how probability is defined?
   - Recall our long-run frequency definition, where
-  
     $$
     \frac{\mathcal{N}(A)}{n} \to P(A) \quad \text{as } n \to \infty.
     $$
-
-  -  How do these definitions relate?
+  - How do these definitions relate?
 
 - **Theorem 1.1-1**  
   - Basic but crucial.
@@ -58,9 +37,9 @@ ___
 - Remaining theorems and examples.
   - Focus on understanding the statements, even if the proofs are brief or omitted.
 
-___
+---
 
-## **Section 1.2 — “Let [us] count the ways”**
+## Section 1.2 — Let Us Count the Ways
 
 - **Multiplication principle**  
   This is very important. Nearly all counting techniques in the course flow directly from this idea.
@@ -69,10 +48,41 @@ ___
 - Pay attention to the boxed definitions.
 - We will *not* worry about the binomial expansion; feel free to skip that paragraph.
 
-___
+---
 
-## **Section 1.3 — Conditional Probability**
+## Section 1.3 — Conditional Probability
 
 - Most of this section is worthwhile.
 - Pay particular attention to the examples and definitions.
 - The figure and the accompanying text are less important.
+
+---
+
+## Section 1.4 — Independence
+
+- Definition and examples are good.
+- Especially see Example 1.4-9 (buying lottery tickets).
+
+---
+
+## Section 1.5 — Bayes’ Theorem
+
+- This section is overkill for our purposes.
+- We will cover:
+  - the law of total probability, and
+  - Bayes’ Theorem,
+  and work through an example.
+
+- You do not need to read this section in full.
+
+---
+
+## Section 2.1 — Random Variables of the Discrete Type
+
+- Also called *discrete random variables*.
+- Strong section overall.
+- Pay special attention to:
+  - random variables,
+  - probability mass functions (pmf),
+  - cumulative distribution functions (cdf),
+  - histograms.
