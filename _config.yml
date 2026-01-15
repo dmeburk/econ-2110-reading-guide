@@ -1,6 +1,0 @@
-title: ECON 2110 Reading Guide
-markdown: kramdown
-
-kramdown:
-  math_engine: katex
-  syntax_highlighter: rouge
