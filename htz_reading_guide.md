@@ -86,3 +86,37 @@ Use this guide alongside the course calendar to determine which sections are rel
   - probability mass functions (pmf),
   - cumulative distribution functions (cdf),
   - histograms.
+
+## Section 2.2 - Expectations
+
+- definition of **expectation** (Def. 2.2-1)
+  - Note: Take a quick look at the *remark* after Def. 2.2-1. It covers some mathematical detail---about convergence and finitude---that we are skipping over (for better or worse!).
+- Examples throughout are good!
+  - Example 2.2-4 uses a touch of calculus.
+  - SKIP: Example 2.2-5 (re hypergeometric distribution)
+  - Example 2.2-6 is great *conceptually.*
+    - Solving it relies on the "power series fact" that for $|q|<1,\quad 1+q+q^2+\ldots = \frac{1}{1-q}$.
+    - 
+- "Expectation is a linear operator" (Theorem 2.2-1)
+
+## Section 2.3 - Special Expectations
+
+- They sort of sneak in the technical term **moment**: a moment is an important expectation
+  - $E[X]$: the first moment of the RV $X$
+  - $E[X-\mu]$, where $\mu$ is the mean: the first central moment of the RV $X$
+  - $E[(X-\mu)^2]$: the second central moment
+- Definitions of mean, variance, and standard deviation (not placed in definitions boxes)
+- Examples 2.3-1 to 2.3-2 are good.
+- This is very important: Let $Y=aX +b$ where $X$ is an RV and $a, b$ are constants. Then $$E[Y] = E[aX +b] = aE[X]+b.$$
+- SKIP: Moment-generating function and everything that follows.
+
+## Section 2.4 - Binomial Distribution
+
+- Good vocab:
+  - Bernoulli experiment, Bernoulli trials, Bernoulli distribution
+  - Random sample
+  - Binomial distribution
+  - parameters
+- Examples 2.4-1 to 2.4-9 are good
+  - Do you understand Figure 2.4-2?
+- SKIP: after Example 2.4-9.
