@@ -6,7 +6,7 @@ These notes are meant to help you read the text productively. They are not a sub
 
 Use this guide alongside the course calendar to determine which sections are relevant for a given week.
 
-**Last updated:** 2026-01-14
+**Last updated:** 2026-01-19
 
 ---
 
@@ -87,36 +87,56 @@ Use this guide alongside the course calendar to determine which sections are rel
   - cumulative distribution functions (cdf),
   - histograms.
 
-## Section 2.2 - Expectations
+Note: in lecture, we will jump to Section 2.4 before going to Section 2.2
+ 
+---
 
-- definition of **expectation** (Def. 2.2-1)
-  - Note: Take a quick look at the *remark* after Def. 2.2-1. It covers some mathematical detail---about convergence and finitude---that we are skipping over (for better or worse!).
-- Examples throughout are good!
-  - Example 2.2-4 uses a touch of calculus.
-  - SKIP: Example 2.2-5 (re hypergeometric distribution)
-  - Example 2.2-6 is great *conceptually.*
-    - Solving it relies on the "power series fact" that for $|q|<1,\quad 1+q+q^2+\ldots = \frac{1}{1-q}$.
-    - 
-- "Expectation is a linear operator" (Theorem 2.2-1)
+## Section 2.2 — Expectation
 
-## Section 2.3 - Special Expectations
+- **Definition of expectation** (Def. 2.2-1)
+- **Note:** Take a quick look at the remark following Def. 2.2-1. It discusses some mathematical details—about convergence and finiteness—that we are skipping over (for better or worse).
+- The examples throughout this section are good.
+- Example 2.2-4 uses a small amount of calculus.
+- **SKIP:** Example 2.2-5 (hypergeometric distribution).
+- Example 2.2-6 is excellent conceptually.
+  - Solving it relies on the power-series fact that for $|q| < 1$,
+    $$
+    1 + q + q^2 + \cdots = \frac{1}{1 - q}.
+    $$
+- **Expectation is a linear operator** (Theorem 2.2-1).  
+  This result is foundational and will be used constantly.
 
-- They sort of sneak in the technical term **moment**: a moment is an important expectation
-  - $E[X]$: the first moment of the RV $X$
-  - $E[X-\mu]$, where $\mu$ is the mean: the first central moment of the RV $X$
-  - $E[(X-\mu)^2]$: the second central moment
-- Definitions of mean, variance, and standard deviation (not placed in definitions boxes)
-- Examples 2.3-1 to 2.3-2 are good.
-- This is very important: Let $Y=aX +b$ where $X$ is an RV and $a, b$ are constants. Then $$E[Y] = E[aX +b] = aE[X]+b.$$
-- SKIP: Moment-generating function and everything that follows.
+---
 
-## Section 2.4 - Binomial Distribution
+## Section 2.3 — Special Expectations
 
-- Good vocab:
-  - Bernoulli experiment, Bernoulli trials, Bernoulli distribution
+- The text introduces the technical term **moment** somewhat quietly:
+  - $E[X]$: the first moment of the random variable $X$
+  - $E[X - \mu]$, where $\mu$ is the mean: the first central moment of $X$
+  - $E[(X - \mu)^2]$: the second central moment
+- Definitions of mean, variance, and standard deviation  
+  *(Note: these are not placed in formal definition boxes.)*
+- Examples 2.3-1 and 2.3-2 are good.
+- **Very important:** If $Y = aX + b$, where $X$ is a random variable and $a, b$ are constants, then
+  $$
+  E[Y] = E[aX + b] = aE[X] + b.
+  $$
+- **SKIP:** Moment-generating functions and everything that follows.
+
+---
+
+## Section 2.4 — Binomial Distribution
+
+- Useful vocabulary:
+  - Bernoulli experiment
+  - Bernoulli trials
+  - Bernoulli distribution
   - Random sample
   - Binomial distribution
-  - parameters
-- Examples 2.4-1 to 2.4-9 are good
-  - Do you understand Figure 2.4-2?
-- SKIP: after Example 2.4-9.
+  - Parameters
+- Examples 2.4-1 through 2.4-9 are good.
+- Make sure you understand Figure 2.4-2.
+- **SKIP:** Everything after Example 2.4-9.
+
+
+
