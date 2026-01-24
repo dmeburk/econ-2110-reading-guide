@@ -6,7 +6,7 @@ These notes are meant to help you read the text productively. They are not a sub
 
 Use this guide alongside the course calendar to determine which sections are relevant for a given week.
 
-**Last updated:** 2026-01-19
+**Last updated:** 2026-01-24
 
 ---
 
@@ -138,5 +138,42 @@ Note: in lecture, we will jump to Section 2.4 before going to Section 2.2
 - Make sure you understand Figure 2.4-2.
 - **SKIP:** Everything after Example 2.4-9.
 
+## Section 2.5 - Negative Binomial Distribution
 
+- This section is about yet another discrete distribution.
+- We won't discuss much in class, but it provides a good opprotunity for you to test your understanding of what a distribution is, what a pmf is, and how to use that information to make probability statements. Some questions to quiz yourself:
+  - Deriving a pmf: Let the RV $X$ indicates how many attepts I take in order to have exactly $r$ success. Do you understand how the negative binomial pmf relates to that?
+  - What is the expectation of $X$?
+  - Can you use the pmf to say what is $P(X \ge x)$?
+- The first two examples are good.
+- Definitely SKIP: any discussion of moment-generating functions.
 
+## Section 2.6 - The Poisson Distribution
+
+- Another useful discrete distribution!
+- No need to understand how to derive this one. But you should understand how to apply the pmf.
+- Try the example about telephone calls and Christmas tree lights (2.6-5 and 6).
+
+## Section 3.1 - Continuous RV
+
+- Important concepts: continuous RV, probability *density* function (pdf--no pmfs for continuous RV's!), CDF for a continuous RV, definition of expectation and variance of a continuous RV, percentile
+- SKIP: moment-generating functions
+- We start using calculus in earnest here. The book computes a few more kinds of integrals than we'll need to. But here are some key ones to understand:
+  - Relationhsip between cdf and pdf in terms of an integral
+  - Integrating and differentiating simple linear functions of $x$ and $x^2$, as in Example 3.1-1, -3 --- But don't worry about Example 3.1-4 which integrates a function pf $e^x$.
+
+## Section 3.2 - Exponential, Gamma, and Chi-Square Distribution
+
+- SKIP ... for now :)
+
+## Section 3.3 - Normal Distribution
+
+- Ignore: anything about $sin$ and $cos$ and moment-generating functions... (It pops up only in the start of the section.)
+- Identify the pdf of the normal. It's not very intuitive, and you don't need to memorize it. But you should recognize it.
+- Understand that it integrates to 1 and what that means.
+  - But don't need to focus on the calculus details that establish that.
+- **Standard normal** pdf and how it relates to the general normal pdf.
+- How to use the table to evaluate probability statemens about standard normal RV $Z$.
+- Standardizing a normal RV: Theorem 3.3-1 (the statement, rather than the proof)
+- Ignore Example 3.3-2 which involves the moment-generating function.
+- All other examples are great!
