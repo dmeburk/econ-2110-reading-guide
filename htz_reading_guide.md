@@ -174,6 +174,8 @@ Note: in lecture, we will jump to Section 2.4 before going to Section 2.2
   - But don't need to focus on the calculus details that establish that.
 - **Standard normal** pdf and how it relates to the general normal pdf.
 - How to use the table to evaluate probability statemens about standard normal RV $Z$.
-- Standardizing a normal RV: Theorem 3.3-1 (the statement, rather than the proof)
+- Standardizing a normal RV and the standard score: Theorem 3.3-1 (the statement, rather than the proof)
 - Ignore Example 3.3-2 which involves the moment-generating function.
 - All other examples are great!
+- "The sum of squared standard normal RV's has a chi-square distribution."
+
